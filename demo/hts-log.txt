@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 31 Aug 2024 19:51:10 at https://html.xpeedstudio.com/upturn/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.xpeedstudio.com/upturn/index.html -O1 "C:\My Web Sites\demo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:51:45	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/favicon.ico (from https://html.xpeedstudio.com/upturn/index.html)
+19:51:45	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/apple-touch-icon.png (from https://html.xpeedstudio.com/upturn/index.html)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/css/owl.video.play.png (from https://html.xpeedstudio.com/upturn/assets/css/owl.carousel.min.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/revicons/revicons.ttf?5510888 (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/css/openhand.cur (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/css/closedhand.cur (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/assets/gridtile.png (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/assets/gridtile_white.png (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/assets/gridtile_3x3.png (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/assets/gridtile_3x3_white.png (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/assets/coloredbg.png (from https://html.xpeedstudio.com/upturn/assets/css/rev-settings.css)
+19:53:39	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/doodle/2.png (from https://html.xpeedstudio.com/upturn/faq.html)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/star.eot (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/star.eot? (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/star.woff (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/star.ttf (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/star.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/WooCommerce.eot (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/WooCommerce.eot? (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/WooCommerce.woff (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/WooCommerce.ttf (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/fonts/WooCommerce.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/loader.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/css/photoswipe/default-skin/default-skin.png (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/visa.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/mastercard.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/laser.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/diners.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/maestro.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/jcb.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/amex.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+19:53:54	Error: 	"Not Found" (404) at link https://html.xpeedstudio.com/upturn/assets/images/icons/credit-cards/discover.svg (from https://html.xpeedstudio.com/upturn/assets/css/woocommerce.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 44 seconds : 267 links scanned, 234 files written (11447759 bytes overall) [9043718 bytes received at 55144 bytes/sec], 3931903 bytes transferred using HTTP compression in 104 files, ratio 32%, 133.5 requests per connection
+(32 errors, 0 warnings, 0 messages)

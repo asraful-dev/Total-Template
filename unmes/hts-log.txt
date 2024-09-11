@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 May 2024 16:06:19 at https://unmeshbd.com/Program +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://unmeshbd.com/Program -O1 "C:\My Web Sites\unmes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:06:21	Warning: 	Found for https://unmeshbd.com/robots.txt
+16:06:21	Warning: 	File has moved from https://unmeshbd.com/robots.txt to /Home/ResourceNotFound
+16:06:38	Warning: 	Found for https://unmeshbd.com/
+16:06:38	Warning: 	File has moved from https://unmeshbd.com/ to /HomePage
+16:07:03	Warning: 	Link https://unmeshbd.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:07:25	Warning: 	Found for https://unmeshbd.com/schema.org/
+16:07:25	Warning: 	File has moved from https://unmeshbd.com/schema.org/ to /Home/ResourceNotFound
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 10 seconds : 243 links scanned, 240 files written (13176807 bytes overall) [8968939 bytes received at 128127 bytes/sec], 9711458 bytes transferred using HTTP compression in 184 files, ratio 54%, 30.7 requests per connection
+(No errors, 7 warnings, 0 messages)

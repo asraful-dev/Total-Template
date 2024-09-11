@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+udvash.com	TRUE	/	FALSE	1999999999	samesite	lax
+unmeshbd.com	TRUE	/	FALSE	1999999999	.AspNetCore.Mvc.CookieTempDataProvider	CfDJ8AzbrwWwThNIu2HmVzJjAfApLwUyKOG9L1-agViSJtzLChBwyHlobW8vz35PiKSt9FPj3-nl6dxADwbxEENyPW7LHrRWhteOkdmUFIYEFg7icYHhZg2jR9z8TQel88nUE0RXG5erIpBn0t1g3VxluWb8zYSxZeE497qYuhV7tsQ0
+unmeshbd.com	TRUE	/	FALSE	1999999999	samesite	lax
+

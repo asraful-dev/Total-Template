@@ -1,0 +1,2 @@
+(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[677],{478455:function(_,n,D){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||{})["www/age-appeal/redirect"]=function(){return D(253608).Z}},253608:function(_,n,D){"use strict";var t=D(646573);n.Z=t.Z}},function(_){_.O(0,[97270,84404,28038,24797,55169,57543],function(){return _(_.s=478455)}),_.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/age-appeal/redirect-10e62fc1e6720244.js.map

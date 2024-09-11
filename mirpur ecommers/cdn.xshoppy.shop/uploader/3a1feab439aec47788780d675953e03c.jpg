@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>AccessDenied</Code>
+  <Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message>
+  <RequestId>6685442E497EA03539BA8442</RequestId>
+  <HostId>cdn.xshoppy.shop</HostId>
+  <Bucket>uploader</Bucket>
+  <Endpoint>oss-cn-qingdao.aliyuncs.com</Endpoint>
+  <EC>0003-00001403</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0003-00001403</RecommendDoc>
+</Error>

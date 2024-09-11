@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+udvash.com	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.jUcYbwK2BM8	CfDJ8CHOqAj2Dy9MjUZiqupYQsRhjoaCEHS6-A4BMF-NbPmmdjFn0N4sZoOkcnuuGYmU1piGwkG-PZ7APvr3Q8yH1jbFoTy_GeqNVfJ92UA1hTVFK4bpDOFh7L1TbqX27DlaKy51DYYlI1a1atIrWEFq1-c
+udvash.com	TRUE	/	FALSE	1999999999	.AspNetCore.Mvc.CookieTempDataProvider	CfDJ8CHOqAj2Dy9MjUZiqupYQsSQiCX_snDTctd9rtJAMR1WLwdVib8WByyijPzbJerGU3rmMDNbqyYR2pU2lDQqLF_QvdEW7-VCCu4SBErJov74joULGY8D8sQSm9OJ0JUSMTmKSVaYMxn45gIEyoMX1sjRGoi60M7AmrSqPlP3Wrw5
+udvash.com	TRUE	/	FALSE	1999999999	samesite	lax
+

@@ -1,0 +1,76 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 May 2024 12:18:06 at https://udvash.com/Branch +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://udvash.com/Branch -O1 "C:\My Web Sites\utvas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:18:08	Warning: 	Found for https://udvash.com/robots.txt
+12:18:08	Warning: 	File has moved from https://udvash.com/robots.txt to /Home/ResourceNotFound
+12:18:54	Warning: 	Found for https://udvash.com/
+12:18:54	Warning: 	File has moved from https://udvash.com/ to /HomePage
+12:19:28	Warning: 	Link https://udvash.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:31:08	Warning: 	Found for https://udvash.com/schema.org/
+12:31:08	Warning: 	File has moved from https://udvash.com/schema.org/ to /Home/ResourceNotFound
+12:31:08	Warning: 	Retry after error -4 (Connect Error) at link https://udvash.com/media/Files/Routine/2024/Class12/EV2ndFreeClass.pdf (from https://udvash.com/Program/Details/hsc2ndyearfreeclass)
+12:31:08	Warning: 	Retry after error -4 (Connect Error) at link https://udvash.com/media/Files/Routine/2024/CA24/FM/NDC24FMRoutine.pdf (from https://udvash.com/Program/Details/cap24sfmtoff)
+12:31:10	Warning: 	Retry after error -4 (Connect Error) at link https://udvash.com/media/Files/Routine/2024/CA24/FM/HCC24FMRoutine.pdf (from https://udvash.com/Program/Details/cap24sfmtoff)
+12:31:56	Warning: 	Moved Temporarily for https://udvash.com/Category/Index/?slug=%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a7%80%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a7%8e%e0%a6%95%e0%a6%be%e0%a6%b0-
+12:31:56	Warning: 	File has moved from https://udvash.com/Category/Index/?slug=%e0%a6%b6%e0%a6%bf%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a5%e0%a7%80%e0%a6%a6%e0%a7%87%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%95%e0%a7%8d%e0%a6%b7%e0%a6%be%e0%a7%8e%e0%a6%95%e0%a6%be%e0%a6%b0- to https://udvash.com/
+12:32:00	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/Post/ (from https://udvash.com/Post/সিয়াম---)
+12:32:01	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/Post/ (from https://udvash.com/Post/সিয়াম---)
+12:32:03	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/Post/ (from https://udvash.com/Post/সিয়াম---)
+12:32:12	Warning: 	Moved Temporarily for https://udvash.com/Category/Index/?slug=%e0%a6%89%e0%a6%a6%e0%a7%8d%e0%a6%ad%e0%a6%be%e0%a6%b8-%e0%a6%a8%e0%a7%8b%e0%a6%9f%e0%a6%bf%e0%a6%b6-%e0%a6%ac%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%a1
+12:32:12	Warning: 	File has moved from https://udvash.com/Category/Index/?slug=%e0%a6%89%e0%a6%a6%e0%a7%8d%e0%a6%ad%e0%a6%be%e0%a6%b8-%e0%a6%a8%e0%a7%8b%e0%a6%9f%e0%a6%bf%e0%a6%b6-%e0%a6%ac%e0%a7%8b%e0%a6%b0%e0%a7%8d%e0%a6%a1 to https://udvash.com/
+12:41:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 9675361 got 2930689): https://udvash.com/media/Files/Faisal/October 2021/SSC 2021 Routine (Songsodhoni) 02.10.2021 (English Version).pdf
+12:41:58	Warning: 	Retry after error -2 (Receive Time Out) at link https://udvash.com/media/Files/Faisal/October 2021/09/BUET Gucco Crash Course (27-10-2021).pdf (from https://udvash.com/Post/egf)
+12:41:58	Warning: 	Retry after error -2 (Receive Time Out) at link https://udvash.com/media/Files/Faisal/BUET Preli.pdf (from https://udvash.com/Post/bf)
+12:42:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://udvash.com/media/Files/Faisal/October 2021/09/SSC 2021 Routine (Songsodhoni) 27.09.2021.pdf (from https://udvash.com/Post/s2)
+12:42:10	Warning: 	Retry after error -4 (Incorrect length (2930689 Bytes, 9675361 expected)) at link https://udvash.com/media/Files/Faisal/October 2021/SSC 2021 Routine (Songsodhoni) 02.10.2021 (English Version).pdf (from https://udvash.com/Post/s2)
+12:42:17	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://udvash.com/Tags/?name=unmesh&page=0 (from https://udvash.com/Tags/?name=unmesh&page=1)
+12:42:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://udvash.com/media/Files/Jewel/DU 'KA' Exam Batch Routine (23-05-2021).pdf (from https://udvash.com/Post/dke)
+12:42:41	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/C_Users_GIGABYTE_AppData_Local_Packages_Microsoft.SkypeApp_kzf8qxf38zg5c_LocalState_6bf02c20-6b01-4687-b117-b01c23cc5160.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘JSC-ফাইনাল-মডেল-টেস্ট-২০১৮’-কার্যক্রমে-ভর্তি-চলছে…)
+12:42:52	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/UDVASH/HSC Math MCQ Star Liflet.jpg (from https://udvash.com/Post/মেধাবৃত্তি-প্রতিযোগিতা-“HSC-Math-MCQ-Star”-এ-রেজিস্ট্রেশন-চলছে…)
+12:42:56	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/Branch/Index (from https://udvash.com/Post/১০ম-শ্রেণির-একাডেমিক-প্রোগ্রাম-২০১৯-এ-ভর্তি-চলছে)
+12:42:59	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Academic 2019/Class 10.jpg (from https://udvash.com/Post/১০ম-শ্রেণির-একাডেমিক-প্রোগ্রাম-২০১৯-এ-ভর্তি-চলছে)
+12:43:52	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/UDVASH/18-May-HSC-Udvashito-Mukh--.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-HSC-2019-কার্যক্রমে-ফ্রি-রেজিস্ট্রেশন-চলছে)
+12:44:07	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/39121275_10156544229716081_6950829609894019072_n.jpg (from https://udvash.com/Post/“আমি-মুজিব-হব”--বঙ্গবন্ধু-বিষয়ক-বই-পড়া-প্রতিযোগিতা–২০১৮)
+12:44:07	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/jsc-02-final.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-JSC-2018-কার্যক্রমে-ভর্তি-চলছে)
+12:44:09	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/JSC-01-Final.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-JSC-2018-কার্যক্রমে-ভর্তি-চলছে)
+12:46:33	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://udvash.com/Tags/?name=unmesh&page=0 (from https://udvash.com/Tags/?name=unmesh&page=1)
+12:46:33	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://udvash.com/media/Files/Jewel/DU 'KA' Exam Batch Routine (23-05-2021).pdf (from https://udvash.com/Post/dke)
+12:46:33	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/C_Users_GIGABYTE_AppData_Local_Packages_Microsoft.SkypeApp_kzf8qxf38zg5c_LocalState_6bf02c20-6b01-4687-b117-b01c23cc5160.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘JSC-ফাইনাল-মডেল-টেস্ট-২০১৮’-কার্যক্রমে-ভর্তি-চলছে…)
+12:46:33	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/UDVASH/HSC Math MCQ Star Liflet.jpg (from https://udvash.com/Post/মেধাবৃত্তি-প্রতিযোগিতা-“HSC-Math-MCQ-Star”-এ-রেজিস্ট্রেশন-চলছে…)
+12:46:37	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/Branch/Index (from https://udvash.com/Post/১০ম-শ্রেণির-একাডেমিক-প্রোগ্রাম-২০১৯-এ-ভর্তি-চলছে)
+12:46:37	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Academic 2019/Class 10.jpg (from https://udvash.com/Post/১০ম-শ্রেণির-একাডেমিক-প্রোগ্রাম-২০১৯-এ-ভর্তি-চলছে)
+12:46:40	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/UDVASH/18-May-HSC-Udvashito-Mukh--.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-HSC-2019-কার্যক্রমে-ফ্রি-রেজিস্ট্রেশন-চলছে)
+12:46:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/ঢাকা বিশ্ববিদ্যালয়__20180728121255.jpg (from https://udvash.com/Post/ঢাকা-বিশ্ববিদ্যালয়ে-২০১৮-২০১৯-শিক্ষাবর্ষে-ভর্তি-বিজ্ঞপ্তি-প্রকাশ-করা-হয়েছে-)
+12:46:44	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/743699160.jpg (from https://udvash.com/Post/ঢাকা-বিশ্ববিদ্যালয়ে-২০১৮-২০১৯-শিক্ষাবর্ষে-ভর্তি-বিজ্ঞপ্তি-প্রকাশ-করা-হয়েছে-)
+12:46:46	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Blog Post/final-2.jpg (from https://udvash.com/Post/JSC-মডেল-টেস্ট-২০১৮)
+12:46:48	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/SSC FMT-COVERT 01.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘SSC-ফাইনাল-মডেল-টেস্ট-২০১৯’-কার্যক্রমে-ভর্তি-চলছে…)
+12:46:50	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/SSC-FMT COVERT-02.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘SSC-ফাইনাল-মডেল-টেস্ট-২০১৯’-কার্যক্রমে-ভর্তি-চলছে…)
+12:46:51	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/39121275_10156544229716081_6950829609894019072_n.jpg (from https://udvash.com/Post/“আমি-মুজিব-হব”--বঙ্গবন্ধু-বিষয়ক-বই-পড়া-প্রতিযোগিতা–২০১৮)
+12:46:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/jsc-02-final.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-JSC-2018-কার্যক্রমে-ভর্তি-চলছে)
+12:46:56	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/JSC-01-Final.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-JSC-2018-কার্যক্রমে-ভর্তি-চলছে)
+12:47:22	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/C_Users_GIGABYTE_AppData_Local_Packages_Microsoft.SkypeApp_kzf8qxf38zg5c_LocalState_6bf02c20-6b01-4687-b117-b01c23cc5160.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘JSC-ফাইনাল-মডেল-টেস্ট-২০১৮’-কার্যক্রমে-ভর্তি-চলছে…)
+12:47:22	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/UDVASH/HSC Math MCQ Star Liflet.jpg (from https://udvash.com/Post/মেধাবৃত্তি-প্রতিযোগিতা-“HSC-Math-MCQ-Star”-এ-রেজিস্ট্রেশন-চলছে…)
+12:47:22	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/Branch/Index (from https://udvash.com/Post/১০ম-শ্রেণির-একাডেমিক-প্রোগ্রাম-২০১৯-এ-ভর্তি-চলছে)
+12:47:22	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Academic 2019/Class 10.jpg (from https://udvash.com/Post/১০ম-শ্রেণির-একাডেমিক-প্রোগ্রাম-২০১৯-এ-ভর্তি-চলছে)
+12:47:22	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/UDVASH/18-May-HSC-Udvashito-Mukh--.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-HSC-2019-কার্যক্রমে-ফ্রি-রেজিস্ট্রেশন-চলছে)
+12:47:22	Warning: 	Retry after error 502 () at link https://udvash.com/media/Images/Image for Notice/ঢাকা বিশ্ববিদ্যালয়__20180728121255.jpg (from https://udvash.com/Post/ঢাকা-বিশ্ববিদ্যালয়ে-২০১৮-২০১৯-শিক্ষাবর্ষে-ভর্তি-বিজ্ঞপ্তি-প্রকাশ-করা-হয়েছে-)
+12:47:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/743699160.jpg (from https://udvash.com/Post/ঢাকা-বিশ্ববিদ্যালয়ে-২০১৮-২০১৯-শিক্ষাবর্ষে-ভর্তি-বিজ্ঞপ্তি-প্রকাশ-করা-হয়েছে-)
+12:47:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Blog Post/final-2.jpg (from https://udvash.com/Post/JSC-মডেল-টেস্ট-২০১৮)
+12:47:22	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/SSC FMT-COVERT 01.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘SSC-ফাইনাল-মডেল-টেস্ট-২০১৯’-কার্যক্রমে-ভর্তি-চলছে…)
+12:47:24	Warning: 	Retry after error 502 (Bad Gateway) at link https://udvash.com/media/Images/Image for Notice/SSC-FMT COVERT-02.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘SSC-ফাইনাল-মডেল-টেস্ট-২০১৯’-কার্যক্রমে-ভর্তি-চলছে…)
+12:47:24	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/39121275_10156544229716081_6950829609894019072_n.jpg (from https://udvash.com/Post/“আমি-মুজিব-হব”--বঙ্গবন্ধু-বিষয়ক-বই-পড়া-প্রতিযোগিতা–২০১৮)
+12:47:24	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/jsc-02-final.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-JSC-2018-কার্যক্রমে-ভর্তি-চলছে)
+12:47:24	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/JSC-01-Final.jpg (from https://udvash.com/Post/উদ্ভাসিত-মুখ-JSC-2018-কার্যক্রমে-ভর্তি-চলছে)
+12:47:25	Error: 	"" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/ঢাকা বিশ্ববিদ্যালয়__20180728121255.jpg (from https://udvash.com/Post/ঢাকা-বিশ্ববিদ্যালয়ে-২০১৮-২০১৯-শিক্ষাবর্ষে-ভর্তি-বিজ্ঞপ্তি-প্রকাশ-করা-হয়েছে-)
+12:47:25	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/743699160.jpg (from https://udvash.com/Post/ঢাকা-বিশ্ববিদ্যালয়ে-২০১৮-২০১৯-শিক্ষাবর্ষে-ভর্তি-বিজ্ঞপ্তি-প্রকাশ-করা-হয়েছে-)
+12:47:25	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Blog Post/final-2.jpg (from https://udvash.com/Post/JSC-মডেল-টেস্ট-২০১৮)
+12:47:25	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/SSC FMT-COVERT 01.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘SSC-ফাইনাল-মডেল-টেস্ট-২০১৯’-কার্যক্রমে-ভর্তি-চলছে…)
+12:47:25	Error: 	"Bad Gateway" (502) after 2 retries at link https://udvash.com/media/Images/Image for Notice/SSC-FMT COVERT-02.jpg (from https://udvash.com/Post/উদ্ভাস-এর-‘SSC-ফাইনাল-মডেল-টেস্ট-২০১৯’-কার্যক্রমে-ভর্তি-চলছে…)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 22 seconds : 607 links scanned, 549 files written (172138214 bytes overall) [164495490 bytes received at 93357 bytes/sec], 14478445 bytes transferred using HTTP compression in 362 files, ratio 42%, 6.7 requests per connection
+(14 errors, 51 warnings, 0 messages)

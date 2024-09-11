@@ -1,0 +1,2 @@
+(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[40212],{43325:function(_,n,t){(window.__PWS_LOADED_HANDLERS__=window.__PWS_LOADED_HANDLERS__||{})["www/age-appeal/confirmation"]=function(){return t(472915).Z}},472915:function(_,n,t){"use strict";t.d(n,{Z:function(){return D}});var u=t(646573),i=t(819267),D=function(){return(0,i.jsx)(u.Z,{})}}},function(_){_.O(0,[97270,84404,28038,24797,55169,57543],function(){return _(_.s=43325)}),_.O()}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/www/age-appeal/confirmation-eef0886fb7d77243.js.map
